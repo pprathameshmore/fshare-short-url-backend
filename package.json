@@ -4,6 +4,7 @@
   "description": "Create short URLs from long URLs",
   "main": "app.js",
   "scripts": {
+    "start": "node src/app.js",
     "test": "echo \"Error: no test specified\""
   },
   "author": "Prathamesh More",
